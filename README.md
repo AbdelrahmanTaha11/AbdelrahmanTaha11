@@ -44,19 +44,6 @@ Building scalable backend applications with C# and ASP.NET Core.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTaha11&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanTaha11&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=AbdelrahmanTaha11&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 

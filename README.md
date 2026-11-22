@@ -1,23 +1,4 @@
 
-<table>
-<tr>
-<td width="220">
-<img src="./profile.jpg" width="200" alt="Abdelrahman Taha"/>
-</td>
-<td>
-<h1>Hi, I'm Abdelrahman Taha 👋</h1>
-<h3>.NET Backend Developer</h3>
-<p>
-C# | ASP.NET Core | SQL Server
-</p>
-<p>
-Building scalable backend applications
-and always learning new technologies.
-</p>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 # 👋 Hi, I'm Abdelrahman Taha

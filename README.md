@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Abdelrahman Taha
 
-### 💻 .NET Backend Developer
+### 💻 Full-Stack .NET Developer
 
 Building scalable backend applications with C# and ASP.NET Core.
 

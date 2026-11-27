@@ -47,6 +47,30 @@ Building scalable backend applications with C# and ASP.NET Core.
 
 ---
 
+
+## 📌 Featured Projects
+### 🏋️ Gym Management System
+
+🔹 ASP.NET Core MVC application with full system modules<br>
+🔹 Dashboard & reporting system for analytics<br>
+🔹 Role-based management for users and admins<br>
+
+**Tech Stack:** C#, ASP.NET Core MVC, EF Core, SQL Server, Identity.
+
+🔗 [View Repository](https://github.com/AbdelrahmanTaha11/Gym-Management)
+
+### 🛒 E-Commerce API
+
+🔹 Built using Onion Architecture with scalable design<br>
+🔹 Integrated Redis caching for performance optimization<br>
+🔹 Applied Specification Pattern & Unit of Work<br>
+🔹 Connected with Angular frontend
+
+**Tech Stack:** C#, ASP.NET Core Web API, EF Core, SQL Server, Specification Pattern.
+
+🔗 [View Repository](https://github.com/AbdelrahmanTaha11/ECommerce.API)
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -79,24 +103,4 @@ Building scalable backend applications with C# and ASP.NET Core.
 
 </div>
 
-## 📌 Featured Projects
-### 🏋️ Gym Management System
 
-🔹 ASP.NET Core MVC application with full system modules<br>
-🔹 Dashboard & reporting system for analytics<br>
-🔹 Role-based management for users and admins<br>
-
-**Tech Stack:** C#, ASP.NET Core MVC, EF Core, SQL Server, Identity.
-
-🔗 [View Repository](https://github.com/AbdelrahmanTaha11/Gym-Management)
-
-### 🛒 E-Commerce API
-
-🔹 Built using Onion Architecture with scalable design<br>
-🔹 Integrated Redis caching for performance optimization<br>
-🔹 Applied Specification Pattern & Unit of Work<br>
-🔹 Connected with Angular frontend
-
-**Tech Stack:** C#, ASP.NET Core Web API, EF Core, SQL Server, Specification Pattern.
-
-🔗 [View Repository](https://github.com/AbdelrahmanTaha11/ECommerce.API)

@@ -69,6 +69,7 @@ Building scalable backend applications with C# and ASP.NET Core.
 **Tech Stack:** C#, ASP.NET Core Web API, EF Core, SQL Server, Specification Pattern.
 
 🔗 [View Repository](https://github.com/AbdelrahmanTaha11/ECommerce.API)
+---
 
 
 ## 🤝 Connect With Me

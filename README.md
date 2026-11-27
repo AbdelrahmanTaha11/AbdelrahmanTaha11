@@ -87,3 +87,11 @@ A web-based Gym Management System built with ASP.NET Core MVC.
 **Tech Stack:** C#, ASP.NET Core MVC, EF Core, SQL Server, Identity.
 
 🔗 [View Repository](https://github.com/AbdelrahmanTaha11/Gym-Management)
+
+### 🛒 E-Commerce API
+
+A backend Web API project built using ASP.NET Core.
+
+**Tech Stack:** C#, ASP.NET Core Web API, EF Core, SQL Server, Specification Pattern.
+
+🔗 [View Repository](https://github.com/AbdelrahmanTaha11/ECommerce.API)

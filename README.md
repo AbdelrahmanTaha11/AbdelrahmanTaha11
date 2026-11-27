@@ -82,9 +82,9 @@ Building scalable backend applications with C# and ASP.NET Core.
 ## 📌 Featured Projects
 ### 🏋️ Gym Management System
 
-🔹 ASP.NET Core MVC application with full system modules
-🔹 Dashboard & reporting system for analytics
-🔹 Role-based management for users and admins
+🔹 ASP.NET Core MVC application with full system modules<br>
+🔹 Dashboard & reporting system for analytics<br>
+🔹 Role-based management for users and admins<br>
 
 **Tech Stack:** C#, ASP.NET Core MVC, EF Core, SQL Server, Identity.
 
@@ -92,9 +92,9 @@ Building scalable backend applications with C# and ASP.NET Core.
 
 ### 🛒 E-Commerce API
 
-🔹 Built using Onion Architecture with scalable design
-🔹 Integrated Redis caching for performance optimization
-🔹 Applied Specification Pattern & Unit of Work
+🔹 Built using Onion Architecture with scalable design<br>
+🔹 Integrated Redis caching for performance optimization<br>
+🔹 Applied Specification Pattern & Unit of Work<br>
 🔹 Connected with Angular frontend
 
 **Tech Stack:** C#, ASP.NET Core Web API, EF Core, SQL Server, Specification Pattern.

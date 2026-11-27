@@ -78,3 +78,12 @@ Building scalable backend applications with C# and ASP.NET Core.
 **Let's build something amazing together! 🚀**
 
 </div>
+
+## 📌 Featured Projects
+### 🏋️ Gym Management System
+
+A web-based Gym Management System built with ASP.NET Core MVC.
+
+**Tech Stack:** C#, ASP.NET Core MVC, EF Core, SQL Server, Identity.
+
+🔗 [View Repository](https://github.com/AbdelrahmanTaha11/Gym-Management)
